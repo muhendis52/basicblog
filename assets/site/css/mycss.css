@@ -1,0 +1,10 @@
+.bglightblue{
+	background:lightblue;
+}
+.list-group-item:hover{
+	background-color:#3b786d;
+	transition:0.5s;
+}
+.list-group-item{
+	background-color: #be181e;
+}
